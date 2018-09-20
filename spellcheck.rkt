@@ -2,7 +2,7 @@
 
 (provide spellcheck?)
 
-;; spellcheck.rkt - by Dave Tompkins for CS 135 Fall 2017
+;; spellcheck.rkt - by Dave Tompkins
 
 ;; This module provides the function spellcheck? to determine if a
 ;; lowercase word is spelled correctly.
